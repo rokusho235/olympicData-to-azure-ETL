@@ -9,7 +9,7 @@ ETL Pipeline: Azure [File Storage > Data Lake Gen2 > Databricks > Data Lake Gen2
 ### Services Used
 
 **Azure:**
-      1.  *File Share*
-      2.  *Data Lake Storage Gen2*
-      3.  *Databricks*
-      4.  *Synapse Analytics*
+1.  *File Share*
+2.  *Data Lake Storage Gen2*
+3.  *Databricks*
+4.  *Synapse Analytics*
